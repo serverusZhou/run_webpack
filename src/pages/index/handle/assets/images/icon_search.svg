@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="19px" height="19px" viewBox="0 0 19 19" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 48.2 (47327) - http://www.bohemiancoding.com/sketch -->
+    <title>icon_search</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="首页" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" transform="translate(-293.000000, -80.000000)">
+        <g id="icon_search" transform="translate(303.470005, 90.395960) scale(-1, 1) rotate(46.000000) translate(-303.470005, -90.395960) translate(295.470005, 79.395960)" stroke="#333333" stroke-width="1.4">
+            <ellipse id="Oval-4" cx="7.89249012" cy="7.90743802" rx="7.19249012" ry="7.20743802"></ellipse>
+            <path d="M7.89249012,15.2066116 L7.89249012,21.2892562" id="Line" stroke-linecap="square"></path>
+        </g>
+    </g>
+</svg>

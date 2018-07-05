@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="15px" height="16px" viewBox="0 0 15 16" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 48.2 (47327) - http://www.bohemiancoding.com/sketch -->
+    <title>iocn_trash</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="搜索" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" transform="translate(-345.000000, -144.000000)">
+        <g id="iocn_trash" transform="translate(345.000000, 145.000000)">
+            <rect id="Rectangle-10" fill="#333333" x="0" y="1.07142857" width="15" height="1.49999997" rx="0.749999987"></rect>
+            <path d="M1.82306517,1.77142857 L2.69565798,14.0213158 C2.70684268,14.1783321 2.83748565,14.3 2.99489975,14.3 L12.0280473,14.3 C12.1856643,14.3 12.3164031,14.1780282 12.327326,14.0207901 L13.1782573,1.77142857 L1.82306517,1.77142857 Z" id="Rectangle" stroke="#333333" stroke-width="1.4"></path>
+            <path d="M5.89285714,4.82142857 L5.89285714,11.25" id="Line-3" stroke="#333333" stroke-width="1.4" stroke-linecap="round"></path>
+            <path d="M9.10714286,4.82142857 L9.10714286,11.25" id="Line-3-Copy" stroke="#333333" stroke-width="1.4" stroke-linecap="round"></path>
+            <path d="M4.32403564,2.15266005 L4.32403564,1.03613162 C4.32403564,0.483846874 4.77175089,0.0361316235 5.32403564,0.0361316235 L9.71428571,0.0361316235 C10.2665705,0.0361316235 10.7142857,0.483846874 10.7142857,1.03613162 L10.7142857,2.17898877" id="Path-2" stroke="#333333" stroke-width="1.4"></path>
+        </g>
+    </g>
+</svg>

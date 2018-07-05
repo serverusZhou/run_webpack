@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="15px" height="15px" viewBox="0 0 15 15" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 48.2 (47327) - http://www.bohemiancoding.com/sketch -->
+    <title>icon_distance</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="首页" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" transform="translate(-35.000000, -368.000000)">
+        <g id="icon_distance" transform="translate(42.778175, 375.778175) scale(-1, 1) rotate(45.000000) translate(-42.778175, -375.778175) translate(35.778175, 371.778175)">
+            <path d="M2,1.4 C1.66862915,1.4 1.4,1.66862915 1.4,2 L1.4,5.53846154 C1.4,5.86983239 1.66862915,6.13846154 2,6.13846154 L12,6.13846154 C12.3313708,6.13846154 12.6,5.86983239 12.6,5.53846154 L12.6,2 C12.6,1.66862915 12.3313708,1.4 12,1.4 L2,1.4 Z M2,0 L12,0 C13.1045695,-2.02906125e-16 14,0.8954305 14,2 L14,5.53846154 C14,6.64303104 13.1045695,7.53846154 12,7.53846154 L2,7.53846154 C0.8954305,7.53846154 1.3527075e-16,6.64303104 0,5.53846154 L0,2 C-1.3527075e-16,0.8954305 0.8954305,2.02906125e-16 2,0 Z" id="Rectangle-4" fill="#FF596D" fill-rule="nonzero"></path>
+            <path d="M7,1.61538462 L7,3.55384615" id="Line-2" stroke="#FF596D" stroke-width="1.4" stroke-linecap="square"></path>
+            <path d="M3.76923077,1.61538462 L3.76923077,2.69230769" id="Line-2-Copy-2" stroke="#FF596D" stroke-width="1.4" stroke-linecap="square"></path>
+            <path d="M10.2307692,1.61538462 L10.2307692,2.69230769" id="Line-2-Copy" stroke="#FF596D" stroke-width="1.4" stroke-linecap="square"></path>
+        </g>
+    </g>
+</svg>
